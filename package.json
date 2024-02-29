@@ -1,0 +1,25 @@
+{
+  "name": "business-site-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "npx tsc && node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.7",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.4.5",
+    "google": "^2.1.0",
+    "puppeteer": "^22.3.0",
+    "request": "^2.88.2",
+    "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "@types/request": "^2.48.12"
+  }
+}

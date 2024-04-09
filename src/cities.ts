@@ -1,10 +1,10 @@
 export const CITIES: { city: string; state: string }[] = [
-  // { city: 'New York', state: 'NY' }, // ----------------------- //
+  // { city: 'New York', state: 'NY' },
   // { city: 'Los Angeles', state: 'CA' },
   // { city: 'Chicago', state: 'IL' },
-  // { city: 'Houston', state: 'TX' }, // These have been run with
-  // { city: 'Phoenix', state: 'AZ' }, // Business types 0-5
-  // { city: 'Philadelphia', state: 'PA' }, // Targeting 25 results each
+  // { city: 'Houston', state: 'TX' },
+  // { city: 'Phoenix', state: 'AZ' },
+  // { city: 'Philadelphia', state: 'PA' }, 
   // { city: 'San Antonio', state: 'TX' },
   // { city: 'San Diego', state: 'CA' }, 
   // { city: 'Dallas', state: 'TX' },
@@ -122,18 +122,18 @@ export const CITIES: { city: string; state: string }[] = [
   // { city: 'Montgomery', state: 'AL' },
   // { city: 'Augusta', state: 'GA' },
   // { city: 'Aurora', state: 'IL' },
-  // { city: 'Akron', state: 'OH' },
-  // { city: 'Little Rock', state: 'AR' },
-  // { city: 'Tempe', state: 'AZ' },
-  // { city: 'Columbus', state: 'GA' },
-  // { city: 'Overland Park', state: 'KS' },
-  // { city: 'Grand Prairie', state: 'TX' },
-  // { city: 'Tallahassee', state: 'FL' },
-  // { city: 'Cape Coral', state: 'FL' },
-  // { city: 'Mobile', state: 'AL' },
-  // { city: 'Knoxville', state: 'TN' },
-  // { city: 'Shreveport', state: 'LA' },
-  // { city: 'Worcester', state: 'MA' },
+  { city: 'Akron', state: 'OH' },
+  { city: 'Little Rock', state: 'AR' },
+  { city: 'Tempe', state: 'AZ' },
+  { city: 'Columbus', state: 'GA' },
+  { city: 'Overland Park', state: 'KS' },
+  { city: 'Grand Prairie', state: 'TX' },
+  { city: 'Tallahassee', state: 'FL' },
+  { city: 'Cape Coral', state: 'FL' },
+  { city: 'Mobile', state: 'AL' },
+  { city: 'Knoxville', state: 'TN' },
+  { city: 'Shreveport', state: 'LA' },
+  { city: 'Worcester', state: 'MA' },
   // { city: 'Ontario', state: 'CA' },
   // { city: 'Vancouver', state: 'WA' },
   // { city: 'Sioux Falls', state: 'SD' },
@@ -160,10 +160,6 @@ export const CITIES: { city: string; state: string }[] = [
   // { city: 'Hayward', state: 'CA' },
   // { city: 'Clarksville', state: 'TN' },
   // { city: 'Lakewood', state: 'CO' },
-
-
-  
-
   // { city: 'Lancaster', state: 'CA' },
   // { city: 'Salinas', state: 'CA' },
   // { city: 'Palmdale', state: 'CA' },
